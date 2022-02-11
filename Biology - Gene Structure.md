@@ -10,14 +10,14 @@
 
 ---
 ## Notes
-<mark style="background: #FF5582A6;">Genes</mark> = DNA segment coding -> a protein
-Coding DNA = <mark style="background: #FF5582A6;">Exon</mark>
-Non-coding DNA = <mark style="background: #FF5582A6;">Intron</mark>
-During <mark style="background: #FF5582A6;">transcription</mark>, <mark style="background: #FFB86CA6;">introns</mark> need - be removed through <mark style="background: #FF5582A6;">RNA splicing</mark>
-DNA -> <mark style="background: #FF5582A6;">Primary transcript</mark> -> <mark style="background: #FF5582A6;">Mature transcript</mark> -> Protein
-<mark style="background: #FFB86CA6;">Primary transcript</mark> = snippet x . 1 gene (<mark style="background: #FFB86CA6;">Transcripition</mark>).
-<mark style="background: #FFB86CA6;">Mature transcript</mark> = primary transcript w!/ introns (<mark style="background: #FFB86CA6;">Splicing</mark>).
-<mark style="background: #FFB86CA6;">RNA splicing</mark> allows 1 gene - encode -> >1 protein by snipping out certain parts.
+Genes = DNA segment coding -> a protein
+Coding DNA = Exon
+Non-coding DNA = Intron
+During transcription, introns need - be removed through RNA splicing
+DNA -> Primary transcript -> Mature transcript -> Protein
+Primary transcript = snippet x . 1 gene (Transcripition).
+Mature transcript = primary transcript w!/ introns (Splicing).
+RNA splicing allows 1 gene - encode -> >1 protein by snipping out certain parts.
 
 ## Cues
 How do enzymes know what is introns and what is exons?

@@ -10,8 +10,8 @@
 
 ---
 ## Notes
-<mark style="background: #FF5582A6;">Transcription</mark> = Producing <mark style="background: #FF5582A6;">RNA sequence</mark> <- <mark style="background: #FF5582A6;">DNA template</mark>
-<mark style="background: #FF5582A6;">RNA polymerase</mark> seperates <mark style="background: #FF5582A6;">DNA strands</mark> & makes <mark style="background: #FF5582A6;">RNA copy</mark> <- <mark style="background: #FF5582A6;">DNA strand</mark>
+Transcription = Producing RNA sequence <- DNA template
+RNA polymerase seperates DNA strands & makes RNA copy <- DNA strand
 Done by covalently bonding ribonucleoside triphosphates <- complementry partner
 Once transcription = finished, RNA polymerase will detach from DNA.
 Happens in the nucleus
