@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "ab2b9e7a4b4ac03b",
+    "type": "split",
+    "children": [
+      {
+        "id": "51d12581e3edd941",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biology - Gene Structure.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4a80efe2dc3f7e7d",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Kanban Board.md"
+          },
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98963fa1d2a7d351",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7eb06022aeddc13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9427eb92049da2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9c7c5729b5bc68c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#writer/mnit",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215
+  },
+  "right": {
+    "id": "879c0591f60a484a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c06c20d761e2759e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f18ae9ccd9b74c0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biology - Gene Structure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "770742fe42fd42c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biology - Gene Structure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a86174135a3108a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "beb419581d35b5fe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "ab16a322dd3e2220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbe0da5d7d4b7c68",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "51d12581e3edd941",
+  "lastOpenFiles": [
+    "Biology - Gene Structure.md",
+    "20220209084738.md",
+    "Computer - CASE Tools.md",
+    "Chinese - Homework 001.md",
+    "Kanban Board.md",
+    "obsidian-notes/2022-02-11.md",
+    "obsidian-notes/2022-02-25.md",
+    "obsidian-notes/2022-02-08.md",
+    "obsidian-notes/Kanban Board.md",
+    "obsidian-notes/DFD Symbols.png"
+  ]
+}

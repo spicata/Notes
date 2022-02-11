@@ -9,6 +9,7 @@
 **and** &
 **or** ||
 **not** !
+**if** {}
 
 ## Time
 **until** >|

@@ -1,0 +1,23 @@
+{
+  "perso@@frameless-mode": false,
+  "perso@@hide-left-menu": false,
+  "perso@@hide-tab-header": false,
+  "perso@@hide-action-buttons": false,
+  "perso@@hide-file-name": false,
+  "perso@@hide-tooltip": false,
+  "perso@@hide-scrollbar": false,
+  "perso@@hide-instruction": false,
+  "perso@@hide-status-bar": false,
+  "perso@@wys-mode": false,
+  "perso@@bold-italic-accent": true,
+  "perso@@hue-bold-italic": 180,
+  "perso@@hue-tag": false,
+  "perso@@more-options": false,
+  "things-style@@minimal-icons-off": false,
+  "things-style@@full-file-names": false,
+  "things-style@@links-int-on": true,
+  "things-style@@links-ext-on": true,
+  "minimal-style@@text-bold@@dark": "#D04255",
+  "minimal-style@@text-italic@@dark": "#D04255",
+  "minimal-style@@blockquote-style": "normal"
+}

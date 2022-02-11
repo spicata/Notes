@@ -1,0 +1,17 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useTab": true,
+  "rightToLeft": false,
+  "communityThemeSortOrder": "download",
+  "vimMode": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
