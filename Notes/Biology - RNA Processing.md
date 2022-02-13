@@ -1,4 +1,4 @@
-# Biology - Gene Structure
+# Biology - RNA Processing
 ---
 #article/science #topic/genetics #year/10 #topic/biology #writer/mnit
 **Mnit**
@@ -19,7 +19,11 @@ Primary transcript = snippet x . 1 gene (Transcripition).
 Mature transcript = primary transcript w!/ introns (Splicing).
 RNA splicing allows 1 gene - encode -> >1 protein by snipping out certain parts.
 
+Goes in 5' - 3' direction
+On 5' side, 5' cap = added
+5' cap = modified guanosine triphosphate
+
 ## Cues
 How do enzymes know what is introns and what is exons?
 If 1 gene can code for >1 protein, how do enzymes know what exons to cut out?
-How do enzymes know where one gene begins and another one ends? *Start and stop codons?*
+How do enzymes know where one gene begins and another one ends? [[Biology - Promoters & Terminators]]

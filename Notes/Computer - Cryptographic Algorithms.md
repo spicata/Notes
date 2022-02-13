@@ -5,7 +5,7 @@
 **2022-02-11**
 
 ---
-**tldr:**
+**tldr:** 3 types of cryptography: Secret key crytography uses 1 key; public key uses 2 keys; and hashes use none, but are unreversible.
 **also see:**
 
 ---

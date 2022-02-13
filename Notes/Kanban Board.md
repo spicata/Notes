@@ -11,6 +11,8 @@ kanban-plugin: basic
 - [ ] Science Test @[[2022-02-17]]
 - [ ] Food Assessment Task @[[2022-02-25]]
 - [ ] Chinese Test @[[2022-02-28]]
+- [ ] [[Personal - Wednesday Claudia Tutor]]
+- [ ] [[Personal - Sunday Claudia Tutor]]
 
 
 

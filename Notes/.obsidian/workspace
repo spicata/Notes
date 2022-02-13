@@ -6,10 +6,11 @@
       {
         "id": "51d12581e3edd941",
         "type": "leaf",
+        "dimension": 70.13824884792626,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Biology - Gene Structure.md",
+            "file": "Personal - Sunday Claudia Tutor.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -19,6 +20,7 @@
       {
         "id": "4a80efe2dc3f7e7d",
         "type": "leaf",
+        "dimension": 29.861751152073733,
         "pinned": true,
         "state": {
           "type": "kanban",
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#writer/mnit",
+                "query": "triphosphate",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology - Gene Structure.md",
+                "file": "Personal - Sunday Claudia Tutor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biology - Gene Structure.md",
+                "file": "Personal - Sunday Claudia Tutor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,15 +149,15 @@
   },
   "active": "51d12581e3edd941",
   "lastOpenFiles": [
-    "Biology - Gene Structure.md",
-    "20220209084738.md",
-    "Computer - CASE Tools.md",
-    "Chinese - Homework 001.md",
+    "Personal - Sunday Claudia Tutor.md",
+    "Personal - Wednesday Claudia Tutor.md",
+    "Page 63.md",
     "Kanban Board.md",
-    "obsidian-notes/2022-02-11.md",
-    "obsidian-notes/2022-02-25.md",
-    "obsidian-notes/2022-02-08.md",
-    "obsidian-notes/Kanban Board.md",
-    "obsidian-notes/DFD Symbols.png"
+    "Computer - Substitution Ciphers.md",
+    "Biology - RNA Processing.md",
+    "Biology - Promoters & Terminators.md",
+    "All Formatting.md",
+    "_Key.md",
+    "Biology - One Gene, One Polypeptide.md"
   ]
 }

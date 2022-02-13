@@ -9,7 +9,7 @@
 **and** &
 **or** ||
 **not** !
-**if** {}
+**if** >>
 
 ## Time
 **until** >|
@@ -31,6 +31,7 @@
 **from** <-
 **results** =>
 **because** <=
+**so** ~
 
 ## Abbr.
 **of** x

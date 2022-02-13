@@ -5,7 +5,7 @@
 **2022-02-11**
 
 ---
-**tldr:**
+**tldr:** Gantt chart and PERT chart are both types of time planning methods.
 **also see:**
 
 ---
