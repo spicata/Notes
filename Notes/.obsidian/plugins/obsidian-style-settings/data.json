@@ -19,5 +19,6 @@
   "things-style@@links-ext-on": true,
   "minimal-style@@text-bold@@dark": "#D04255",
   "minimal-style@@text-italic@@dark": "#D04255",
-  "minimal-style@@blockquote-style": "normal"
+  "minimal-style@@blockquote-style": "normal",
+  "minimal-style@@minimal-strike-lists": true
 }

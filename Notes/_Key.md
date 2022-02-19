@@ -32,6 +32,7 @@
 **results** =>
 **because** <=
 **so** ~
+**which** ^
 
 ## Abbr.
 **of** x
@@ -39,6 +40,7 @@
 **without** w!/
 **but** h/
 **thus** t/
+**used** u/
 
 ## Location
 **through** -=-

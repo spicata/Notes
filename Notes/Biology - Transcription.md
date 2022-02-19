@@ -5,8 +5,8 @@
 **2022-02-10**
 
 ---
-**tldr:** RNA polymerase creates mRNA by copying one DNA strand with transcription.
-**also see:** [[Biology - RNA Processing]] [[Biology - Translation]]
+**told:** RNA polymerase creates mRNA by copying one DNA strand with transcription.
+**also see:** [[Biology - RNA Splicing]] [[Biology - Translation]]
 
 ---
 ## Notes

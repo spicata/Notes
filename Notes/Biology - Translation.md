@@ -16,7 +16,7 @@ Ribosome moves in 5' - 3' until start codon
 Anticodon in tRNA attaches - mRNA
 tRNA carry amino acid
 Ribosome catalyse formation x peptide bonds <= condensation reaction
-Ribosome moves along mRNA forming peptide bonds until stop codon -> release polypeptide change
+Ribosome moves along mRNA forming peptide bonds until stop codon -> release polypeptide chain
 
 ## Cue
 So are the ends of the mRNA not start and stop codons?

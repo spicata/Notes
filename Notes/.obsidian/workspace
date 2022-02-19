@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "51d12581e3edd941",
+        "id": "86e850fa10c12284",
         "type": "leaf",
-        "dimension": 70.13824884792626,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal - Sunday Claudia Tutor.md",
+            "file": "Ace - Yellow Cards.md",
             "mode": "source",
             "backlinks": false,
             "source": false
           }
-        }
-      },
-      {
-        "id": "4a80efe2dc3f7e7d",
-        "type": "leaf",
-        "dimension": 29.861751152073733,
-        "pinned": true,
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban Board.md"
-          },
-          "pinned": true
         }
       }
     ],
@@ -42,7 +28,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9427eb92049da2a",
+            "id": "72345dfe856c9d4c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +36,12 @@
             }
           },
           {
-            "id": "f9c7c5729b5bc68c",
+            "id": "96592d5ac4f25790",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "triphosphate",
+                "query": "tag:#article/foodScience",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,12 +49,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4bdef29335103ae1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 215
+    "width": 253.99999809265137
   },
   "right": {
     "id": "879c0591f60a484a",
@@ -78,35 +72,6 @@
         "id": "c06c20d761e2759e",
         "type": "tabs",
         "children": [
-          {
-            "id": "f18ae9ccd9b74c0c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Personal - Sunday Claudia Tutor.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "770742fe42fd42c7",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Personal - Sunday Claudia Tutor.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "6a86174135a3108a",
             "type": "leaf",
@@ -125,9 +90,38 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "7124be9cd0a13281",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ace - Yellow Cards.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9e5b5558a0f70063",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ace - Yellow Cards.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "ab16a322dd3e2220",
@@ -147,17 +141,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "51d12581e3edd941",
+  "active": "86e850fa10c12284",
   "lastOpenFiles": [
-    "Personal - Sunday Claudia Tutor.md",
-    "Personal - Wednesday Claudia Tutor.md",
-    "Page 63.md",
-    "Kanban Board.md",
-    "Computer - Substitution Ciphers.md",
-    "Biology - RNA Processing.md",
-    "Biology - Promoters & Terminators.md",
-    "All Formatting.md",
+    "Ace - Yellow Cards.md",
+    "2022-02-18.md",
+    "Food - Prevent Cross-Contamination.md",
+    "Food - Cutting Food.md",
     "_Key.md",
-    "Biology - One Gene, One Polypeptide.md"
+    "WIN_20220216_19_35_29_Scan.jpg",
+    "Computer - Revision.md",
+    "Biology - Promoters & Terminators.md",
+    "Digital Technologies Notes.md",
+    "20220209094613.md"
   ]
 }

@@ -1,4 +1,4 @@
-# Safe Storage and Thawing
+# Safe Storage of Food
 ---
 #article/foodScience 
 **Mnit**

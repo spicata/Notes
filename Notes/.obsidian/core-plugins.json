@@ -11,13 +11,16 @@
   "templates",
   "note-composer",
   "command-palette",
+  "slash-command",
   "editor-status",
+  "starred",
   "markdown-importer",
   "zk-prefixer",
   "random-note",
   "word-count",
+  "slides",
   "audio-recorder",
   "open-with-default-app",
-  "file-recovery",
-  "sync"
+  "workspaces",
+  "file-recovery"
 ]

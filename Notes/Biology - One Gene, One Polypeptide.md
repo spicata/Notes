@@ -5,7 +5,7 @@
 **2022-02-10**
 
 ---
-**tldr:**
+**tldr:** Each gene codes for one polypeptides, unless alternate splicing occurs.
 **also see:** [[Biology - Translation]] [[Biology - Genetic Code & Codons]]
 
 ---

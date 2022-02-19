@@ -12,6 +12,15 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
-  }
+    "downscalePercent": 80
+  },
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "en-AU"
+  ],
+  "foldHeading": true,
+  "foldIndent": true
 }

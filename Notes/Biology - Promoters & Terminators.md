@@ -5,8 +5,8 @@
 **2022-02-12**
 
 ---
-**tldr:**
-**also see:**
+**tldr:** Promoters signify where a gene start, terminators signifies where it ends.
+**also see:** [[Biology - RNA Splicing]]
 
 ---
 ## Notes

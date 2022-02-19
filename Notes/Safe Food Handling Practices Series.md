@@ -3,7 +3,6 @@
 #series/directory #article/foodScience 
 **Mnit**
 **2022-02-09**
----------- 0%
 
 ---
 **tl;dr:** Food poisining costs a lot, businesses are responsible, governments deal with it.
@@ -17,5 +16,3 @@ WA monitors foods through laws and regulations.
 Food and Safety Division of the Department of Health protects public health.
 Food and Safety Divison monitors sale in WA is safe.
 Environmental Health Officers enforce food laws.
-
-## Subnotes

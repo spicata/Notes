@@ -35,3 +35,6 @@ Table | Table
 - [ ] Tasks
 - [ ] Tasks
 
+Text[^1]
+
+[^1]: Footnotes
