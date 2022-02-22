@@ -6,6 +6,10 @@ Encrypting is securing data through a technique
 Your data = Plaintext
 Technique = cipher or mathmatics
 
+### Cryptographic Algorithms
+[[Computer - Cryptographic Algorithms]]
+
+### Substitution Ciphers
 Substitution cipher
 method where units of plain replaced with ciphertext.
 sub ciphers vs transposition cipher
@@ -41,3 +45,5 @@ book cipher
 
 polyalphabetic cipher
 each plain text is assigned more than one sub
+
+Cipher

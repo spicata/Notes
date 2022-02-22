@@ -23,5 +23,13 @@
       "key": "'"
     }
   ],
-  "editor:insert-tag": []
+  "editor:insert-tag": [],
+  "obsidian-admonition:insert-admonition": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ]
 }

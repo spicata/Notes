@@ -1,4 +1,7 @@
 [
   "obsidian-kanban",
-  "calendar"
+  "calendar",
+  "obsidian-pandoc",
+  "obsidian-outliner",
+  "obsidian-admonition"
 ]

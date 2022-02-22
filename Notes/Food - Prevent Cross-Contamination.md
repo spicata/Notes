@@ -24,8 +24,7 @@
  - Change/sanitise cleaning cloths
  - Air dry equipment and untensils
 #### Risk
-- Everyone is at risk but: pregnant 
-![[Pasted image 20220217145842.png]]
+- Everyone is at risk but high risk: pregnant 
 
 ## Notes
 ### [What Is Cross Contamination? Plus, How to Avoid It (healthline.com)](https://www.healthline.com/nutrition/what-is-cross-contamination#side-effects):
