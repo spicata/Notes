@@ -1,4 +1,6 @@
 # Tags
+U20220222121222
+
 ---
 ## Stages of Learning
 #learn
@@ -7,8 +9,19 @@
 #crystallise
 ## Big Topics
 #people
-#events
-#objects
-#topics
+#event
+#object
+#topic
 ## People
-#people/
+#people/key
+#people/side
+#people/organisation
+## Events
+#event 
+## Object
+#object/tool
+#object/specific
+#object/general
+## Language
+#english 
+#chinese

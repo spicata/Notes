@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5753a1b3c776120c",
+        "id": "931d712aac7e73e7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Tags.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
+            "file": "Kanban Board.md"
           }
         }
       }
@@ -41,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#article/foodScience",
+                "query": "20220222121222",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tags.md",
+                "file": "Kanban Board.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tags.md",
+                "file": "Kanban Board.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5753a1b3c776120c",
+  "active": "931d712aac7e73e7",
   "lastOpenFiles": [
-    "Tags.md",
+    "Kanban Board.md",
+    "kanv.md",
+    "Food - Prevent Cross-Contamination.md",
     "Genetics - Terminology.md",
     "Genetics - Mendel.md",
-    "Kanban Board.md",
-    "Laws and Regulations (Food Sciences).md",
-    "Biology - CAT Model Answer.md",
-    "Computer - Revision.md",
+    "Digital Technologies Notes.md",
+    "Computer - Cyber Security.md",
     "Context Diagram.md",
-    "Computer - Substitution Ciphers.md",
-    "Computer - Encryption.md"
+    "Standard Development Life Cycle.md",
+    "Tags.md"
   ]
 }

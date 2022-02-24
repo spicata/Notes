@@ -1,11 +1,5 @@
 # #Food - Prevent Cross-Contamination
----
-**spicata**
 **2022-02-14**
-
----
-**tldr:**
-**also see:**
 
 ---
  ## Notes

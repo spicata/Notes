@@ -1,12 +1,5 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
+  "insert-template": [],
   "insert-current-time": [
     {
       "modifiers": [
