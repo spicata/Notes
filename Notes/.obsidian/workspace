@@ -7,10 +7,8 @@
         "id": "931d712aac7e73e7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Kanban Board.md"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -59,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.99999809265137
+    "width": 253.99999809265137,
+    "collapsed": true
   },
   "right": {
     "id": "879c0591f60a484a",
@@ -142,14 +141,14 @@
   "active": "931d712aac7e73e7",
   "lastOpenFiles": [
     "Kanban Board.md",
-    "kanv.md",
-    "Food - Prevent Cross-Contamination.md",
-    "Genetics - Terminology.md",
-    "Genetics - Mendel.md",
-    "Digital Technologies Notes.md",
-    "Computer - Cyber Security.md",
-    "Context Diagram.md",
-    "Standard Development Life Cycle.md",
-    "Tags.md"
+    "_Text Game.md",
+    "_Passwords.md",
+    "Untitled 2.md",
+    "Disassenble & Showcase.md",
+    "aaa.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "2022-02-24 - Science.md",
+    "Phases of the Cell Cycle.md"
   ]
 }

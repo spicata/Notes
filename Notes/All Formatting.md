@@ -32,8 +32,8 @@ Table | Table
 `Inline code`
 
 - [x] Tasks
-- [ ] Tasks
-- [ ] Tasks
+- [x] Tasks
+- [x] Tasks
 
 Text[^1]
 

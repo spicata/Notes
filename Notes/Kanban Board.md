@@ -12,6 +12,10 @@ kanban-plugin: basic
 - [ ] Science Test @[[2022-03-14]]
 
 
+## Homework
+
+
+
 ## Personal
 
 - [ ] [[Personal - Wednesday Claudia Tutor]]
@@ -21,12 +25,12 @@ kanban-plugin: basic
 
 ## Finished
 
-**Complete**
 - [x] English Test @[[2022-02-16]]
 - [x] Science CAT @[[2022-02-17]]
 - [x] Science Test @[[2022-02-17]]
 - [x] Digital Technology Test @[[2022-02-23]]
-- [x] Food Assessment Task @[[2022-02-25]]
+- [x] Food Assessment Task @[[2022-02-25]]<br>**Complete**
+- [x] Andrew Douche Pedigree Analysis #2
 
 
 
